@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Batuhankilacç I`m living in Turkey and 22 years old.
+- 👋 Hi, I’m @Batuhankilac I`m living in Turkey and 22 years old.
 - 👀 I’m interested in Game Developing and Backend Engineering.
 - 🌱 I’m currently learning Unity, C#, python and .Net.
 - 💞️ I’m looking to collaborate as Intern.
